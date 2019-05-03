@@ -30,7 +30,7 @@ require_once 'app/controller/home_controller.php';
         });
     </script>
 </head>
-
+<div></div>
 <body>
     <div class="main col-xl-11 col-md-12 col-12 row">
         <div class="contenedor col-xl-6">
